@@ -10,10 +10,10 @@ queue_name = 'hello'
 # Email configuration
 smtp_server = 'smtp.gmail.com'
 smtp_port = 465  # Change this to the appropriate port for your SMTP server
-smtp_username = 'jjelway24@gmail.com'
-smtp_password = 'ofze kube zxbr mmib'
-sender_email = 'jjelway24@gmail.com'
-recipient_email = 'tyler_renn@yahoo.com'
+smtp_username = ' ' #Input your gmail
+smtp_password = ' ' #Input password
+sender_email = ' ' #Input your gmail
+recipient_email = ' ' #Input Desired Recipient
 
 
 def send_email(subject, body):
